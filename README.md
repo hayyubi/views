@@ -8,4 +8,4 @@ The YouTube video ids of the dataset is stored in a pkl file in the correspondin
 
 The video ids can be used to download the data and the paired article and other metadata using scripts from this [repo](https://github.com/hayyubi/multihieve/tree/main).
 
-The ground-truth captions can be generated using prompts provided in the paper. We plan to release our generated captions soon.
+To acquire ground-truth captions for our train/val/test set, please reach out to hayyubi@cs.columbia.edu.
